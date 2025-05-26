@@ -21,7 +21,7 @@ A lógica de geração e validação do código de barras é hospedada em uma **
 
 ### 1. Tela Inicial
 
-A interface inicial do gerador e validador de boletos, pronta para a entrada de dados.
+A interface inicial do gerador e validador de boleto, pronta para a entrada de dados.
 
 ![1- inicial do gerador e validador de boleto](https://github.com/user-attachments/assets/e2561319-524b-47e4-afbb-8b35db9c79cd)
 
