@@ -28,7 +28,7 @@ A interface inicial do gerador e validador de boleto, pronta para a entrada de d
 
 ### 2. Gerando Boleto
 
-Demonstração da geração de um código de barras após a inserção da data de vencimento (26/05/2025) e do valor (200).
+Demonstração da geração de um código de barras após a inserção da data de vencimento (26/05/2025) e do valor R$ (200).
 
 ![2- Gerando boleto](https://github.com/user-attachments/assets/8119d3b1-0e57-4240-804b-a0d067eb40ad)
 
