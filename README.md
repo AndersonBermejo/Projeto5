@@ -22,7 +22,7 @@ A lógica de geração e validação do código de barras é hospedada em uma **
 ### 1. Tela Inicial
 
 A interface inicial do gerador e validador de boleto, pronta para a entrada de dados.
-## Obs: O botão de validador só fica habilitado após gerar o boleto.
+## Obs: O botão validar boleto só fica habilitado após gerar o boleto.
 
 ![1- inicial do gerador e validador de boleto](https://github.com/user-attachments/assets/c97a5939-cbc9-4838-873b-71d6e16ea1f6)
 
