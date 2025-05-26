@@ -58,7 +58,7 @@ Demonstração de que, ao retornar a data e o valor aos dados originais (26/05/2
 
 ### 7. Coletando Informações da API no Azure Function
 
-Visualização do Azure Portal, mostrando os logs da Azure Function e as informações do código de barras gerado, incluindo `OriginalDate` e `OriginalValue`, que são cruciais para a validação.
+Visualização do Azure Portal, mostrando os logs da Azure Function e as informações do código de barras gerado, incluindo `barcode`, que é crucial para a validação.
 
 ![7- Coletando informação do codigo de barras gerado na api no azure function](https://github.com/user-attachments/assets/cff36d41-05cf-46a9-83e6-6108c6ff213d)
 
