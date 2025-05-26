@@ -23,7 +23,7 @@ A lógica de geração e validação do código de barras é hospedada em uma **
 
 A interface inicial do gerador e validador de boleto, pronta para a entrada de dados.
 
-![1- inicial do gerador e validador de boleto](https://github.com/user-attachments/assets/e2561319-524b-47e4-afbb-8b35db9c79cd)
+![1- inicial do gerador e validador de boleto](https://github.com/user-attachments/assets/c97a5939-cbc9-4838-873b-71d6e16ea1f6)
 
 ### 2. Gerando Boleto
 
