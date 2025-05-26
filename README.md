@@ -40,7 +40,7 @@ Validação bem-sucedida do boleto com os dados originais, indicando que "Todos 
 
 ### 4. Alterando a Data do Boleto
 
-Exemplo de alteração da data de vencimento (para 28/05/2025) após a geração, resultando em um erro de validação.
+Exemplo de alteração da data de vencimento (para 30/05/2025) após a geração, resultando em um erro de validação.
 
 ![4- Alterando a data do boleto](https://github.com/user-attachments/assets/6360f749-1abe-4a6d-971f-dd84095a12b2)
 
