@@ -46,7 +46,7 @@ Exemplo de alteração da data de vencimento (para 30/05/2025) após a geração
 
 ### 5. Alterando o Valor do Boleto
 
-Exemplo de alteração do valor (para 600) após a geração, também resultando em um erro de validação.
+Exemplo de alteração do valor (para 600) após a geração, mas mantendo a data original do boleto, também resultando em um erro de validação.
 
 ![5- Alterando o valor do boleto](https://github.com/user-attachments/assets/ca450dfd-2f51-4a47-a090-10c80d1d7b4c)
 
